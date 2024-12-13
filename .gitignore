@@ -98,6 +98,7 @@ replay_pid*
 /build/
 
 /src/main/java/nocommit_all/
+/src/main/java/nocommit_some/NoCommit_5_right.java
 /src/main/java/nocommit_some/NoCommit_3.java
 .classpath
 
